@@ -7,11 +7,11 @@
     var gitalk = new Gitalk({
     // gitalk的主要参数
         clientID: '84db93e468fa1c2a2587',
-        clientSecret: '8e8637923b09a060b04c19e64880959952a750e',
+        clientSecret: '67ea4e0ce882f2cef3bd82a17fc8b4b81fd8cdb1',
         repo: 'lqpl66.github.io',
-        owner: 'lqpl66',
+        owner: '17306893',
         admin: ['lqpl66'],
-        id: window.location.pathnameo,
+        id: decodeURI(window.location.pathname),
         
     });
     gitalk.render('gitalk-container');

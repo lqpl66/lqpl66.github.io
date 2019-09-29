@@ -21,15 +21,15 @@ social-email: caffrey2012@163.com # add your Email address
 
 # Disqus
 
-comments_provider: gitalk
-comments: 
-    gitalk: true
-    gitalk_clientID: '84db93e468fa1c2a2587'
-    gitalk_Secret: '8e8637923b09a060b04c19e64880959952a750e9'
-    gitalk_repo: 'lqpl66.github.io'
-    gitalk_owner: 'lqpl66'
-    gitalk_admin: 'lqpl66'
-    distractionFreeMode: true
+# comments_provider: gitalk
+# comments: 
+#     gitalk: true
+#     gitalk_clientID: '84db93e468fa1c2a2587'
+#     gitalk_Secret: '8e8637923b09a060b04c19e64880959952a750e9'
+#     gitalk_repo: 'lqpl66.github.io'
+#     gitalk_owner: 'lqpl66'
+#     gitalk_admin: 'lqpl66'
+#     distractionFreeMode: true
 # Tracker
 # analytics: # Google Analytics
 baidu-analysis: c2e864a6cf0e935cdedcef23b8c2736b
