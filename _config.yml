@@ -1,4 +1,5 @@
-title: Hello, world! I'm David Freeman
+
+title: lqpl66
 description: > # this means to ignore newlines until "baseurl:"
   Write an awesome description for your new site here. You can edit this
   line in _config.yml. It will appear in your document head meta (for
@@ -11,7 +12,7 @@ site-twitter: #if your site has a twitter account, enter it here
 # Author Settings
 author: lqpl66 # add your name
 # author-img: david-freeman.jpg # add your photo
-about-author: I am a web developer focusing on front-end development. Always hungry to keep learning. # add description
+about-author: 前铁匠铺（TJPU）人员. # add description
 social-twitter: # add your Twitter handle
 social-facebook: # add your Facebook handle
 # social-github: artemsheludko # add your Github handle
@@ -35,3 +36,4 @@ paginate: 8
 paginate_path: "/page/:num"
 
 exclude: ["node_modules", "gulpfile.js", "package.json", "yarn.lock"]
+
