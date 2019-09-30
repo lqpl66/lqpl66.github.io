@@ -441,8 +441,8 @@ gitalk:
   clientID: 84db93e468fa1c2a2587
   clientSecret: 67ea4e0ce882f2cef3bd82a17fc8b4b81fd8cdb1
   repo: lqpl66.github.io
-  owner:  17306893
-  admin: lqpl66
+  owner:  lqpl66
+  # admin: lqpl66
 
 # Baidu Share
 # Available value:
