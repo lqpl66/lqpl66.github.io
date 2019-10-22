@@ -37,3 +37,13 @@ graph LR;
 　　Apollo配置中心-->|实时推送|App;
 　　App-->|实时查询|Apollo配置中心;
 ```
+
+
+
+{% mermaid %}
+graph TD;
+    A-->B;
+    A-->C;
+    B-->D;
+    C-->D;
+{% endmermaid %}
