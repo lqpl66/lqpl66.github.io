@@ -1,6 +1,6 @@
 ---
 title: jetbrains激活攻略
-date:2020-01-20 10：12
+date: 2020-01-20 10：12
 author: lqpl66
 categories: 
    - utils
